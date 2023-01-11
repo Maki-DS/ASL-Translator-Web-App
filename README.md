@@ -1,4 +1,4 @@
-# ASL-Translator-Flask-Web-App
+# ASL Translator Flask Web App
 Flask Web app for previous work done to translate American Sign Language through webcam feed. 
 
 ## Intro:
