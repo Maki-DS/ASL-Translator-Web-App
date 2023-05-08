@@ -4,7 +4,7 @@ Web app for previous work done to translate American Sign Language through webca
 ## Setup:
 
 - Install Dependencies
-- run ```streamlit run streamlit_app.py```
+- Run ```streamlit run streamlit_app.py```
 
 ## Intro:
 Deafness and sign language are the largest and hardest to overcome language barriers in the modern world. In this case it isn't feasible to "learn" or even attempt to 
