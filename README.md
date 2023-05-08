@@ -1,5 +1,5 @@
-# ASL Translator Flask Web App
-Flask Web app for previous work done to translate American Sign Language through webcam feed. (Best results on clear background)
+# ASL Translator Web App
+Web app for previous work done to translate American Sign Language through webcam feed. (Best results on clear background)
 
 ## Intro:
 Deafness and sign language are the largest and hardest to overcome language barriers in the modern world. In this case it isn't feasible to "learn" or even attempt to 
