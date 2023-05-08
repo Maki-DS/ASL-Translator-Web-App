@@ -1,6 +1,11 @@
 # ASL Translator Web App
 Web app for previous work done to translate American Sign Language through webcam feed. (Best results on clear background)
 
+## Setup:
+
+- Install Dependencies
+- run ```streamlit run streamlit_app.py```
+
 ## Intro:
 Deafness and sign language are the largest and hardest to overcome language barriers in the modern world. In this case it isn't feasible to "learn" or even attempt to 
 bridge this gap through self-study. Here we aim to aid in crossing this gap through the creation of a lightweight and truely robust ASL(American Sign-Language) 
